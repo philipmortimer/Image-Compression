@@ -5,3 +5,7 @@ The "Convert" section contains code that is used to convert SK files to a format
 "Data" stores a fresh copy of the PGM and SK files.
 Example screenshots have been included.
 Everything works when using linux (or WSL).
+
+![image](https://user-images.githubusercontent.com/64362945/177980360-2bd296e4-459f-41de-8737-406e830999d7.png)
+
+![image](https://user-images.githubusercontent.com/64362945/177980407-1e2abfb5-48ea-4fa4-8364-018ec970da34.png)
